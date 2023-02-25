@@ -1,0 +1,41 @@
+.generator {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 1em;
+}
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+input {
+  font-size: 1.2em;
+  padding: 0.3em;
+  width: 5em;
+  margin-right: 0.5em;
+}
+
+button {
+  font-size: 1.2em;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 0.5em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+#name {
+  font-size: 2em;
+  margin-top: 1em;
+  font-weight: bold;
+}
